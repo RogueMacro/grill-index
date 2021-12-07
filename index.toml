@@ -1,3 +1,5 @@
 [packages.dummy]
 url = "https://github.com/RogueMacro/dummy"
-versions = {}
+
+[packages.dummy.versions]
+"0.1.0" = "1eb55807b3a4598cf18333e06fee83681b795fc6"
