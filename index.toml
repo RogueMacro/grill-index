@@ -1,3 +1,3 @@
 [packages.dummy]
 url = "https://github.com/RogueMacro/dummy"
-versions = []
+versions = {}
