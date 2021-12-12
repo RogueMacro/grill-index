@@ -4,3 +4,4 @@ url = "https://github.com/RogueMacro/dummy"
 [packages.dummy.versions]
 "0.1.0" = "1eb55807b3a4598cf18333e06fee83681b795fc6"
 "0.1.1" = "a2e29d67c99350f4b286ed34f4fd41d63dd48422"
+"0.1.2" = "ada84e6cf73908a7ae9b40b318172184e1fafd5b"
