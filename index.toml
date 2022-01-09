@@ -1,11 +1,4 @@
-[dummy]
-url = "https://github.com/RogueMacro/dummy"
 
-  [dummy.versions]
-  "0.1.0" = "1eb55807b3a4598cf18333e06fee83681b795fc6"
-  "0.1.1" = "a2e29d67c99350f4b286ed34f4fd41d63dd48422"
-  "0.1.2" = "ada84e6cf73908a7ae9b40b318172184e1fafd5b"
-  "0.1.3" = "1f22357cf83e3e69c692b048411936d7973ce789"
 
 [dummy2]
 url = "https://github.com/RogueMacro/dummy2"
