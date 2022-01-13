@@ -1,1 +1,8 @@
+[dummy]
+url = "https://github.com/RogueMacro/dummy"
 
+[dummy.versions."0.1.0"]
+rev = "bf02a899c6fd1b4e45de860d83141bedda278ae1"
+
+  [dummy.versions."0.1.0".deps]
+  dummy2 = "^0.1"
