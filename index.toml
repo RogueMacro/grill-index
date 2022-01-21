@@ -7,6 +7,12 @@ rev = "bf02a899c6fd1b4e45de860d83141bedda278ae1"
   [dummy.versions."0.1.0".deps]
   dummy2 = "^0.1"
 
+[dummy.versions."0.2.0"]
+rev = "7523485f2ed1e4449e8c7cf53d522eb0bca70a0e"
+
+  [dummy.versions."0.2.0".deps]
+  dummy2 = "^0.1"
+
 [dummy2]
 url = "https://github.com/RogueMacro/dummy2"
 
