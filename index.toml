@@ -33,10 +33,3 @@ deps = { }
 [dummy2.versions."1.0.0"]
 rev = "4a74f8863d312ab6f6d1b61e2c79751125e81bcb"
 deps = { }
-
-[ImGui]
-url = "https://github.com/roguemacro/imgui-beef"
-
-[ImGui.versions."1.88.0"]
-rev = "34b17c788d1b31257951b823ed07a3a750b9924a"
-deps = { }
