@@ -31,7 +31,7 @@ rev = "3c2e46fd003874729036b40153e26bb9798d1cbf"
 deps = { }
 
 [dummy2.versions."1.0.0"]
-rev = "4a74f8863d312ab6f6d1b61e2c79751125e81bcb"
+rev = "fc47a25c4967a800c760d9416a0eb7bafd16517d"
 deps = { }
 
 [ImGui]
