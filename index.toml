@@ -42,10 +42,6 @@ description = "Dear ImGui wrapper for Beef"
 rev = "40650d06562d13cee03901cb3180bb52d09eb312"
 deps = { }
 
-[ImGui.versions."1.88.1"]
-rev = "9c53b9403734528d162106c20b2c4710eaa991bd"
-deps = { }
-
 [GLFW]
 url = "https://github.com/RogueMacro/glfw-beef"
 description = "Beef wrapper library for GLFW 3.3.4"
