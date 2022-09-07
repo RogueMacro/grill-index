@@ -47,7 +47,6 @@ rev = "5e2fcb014b020b7eb5ff280838f77c608877f3b6"
 
   [ImGui.versions."1.88.1".deps]
   GLFW = "*"
-  SDL2 = "*"
 
 [GLFW]
 url = "https://github.com/RogueMacro/glfw-beef"
