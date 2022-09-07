@@ -55,3 +55,11 @@ description = "Beef wrapper library for GLFW 3.3.4"
 [GLFW.versions."3.3.4"]
 rev = "cc1f74d69b5b0760dc4e42f84a448ee1f5516467"
 deps = { }
+
+[OpenGL]
+url = "https://github.com/RogueMacro/opengl-beef.git"
+description = "OpenGL bindings"
+
+[OpenGL.versions."3.3.0"]
+rev = "3551cdc9cb576534d4e3a2efb3f3eabce565f9f7"
+deps = { }
