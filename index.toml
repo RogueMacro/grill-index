@@ -1,39 +1,3 @@
-[dummy]
-url = "https://github.com/RogueMacro/dummy"
-
-[dummy.versions."0.1.0"]
-rev = "bf02a899c6fd1b4e45de860d83141bedda278ae1"
-
-  [dummy.versions."0.1.0".deps]
-  dummy2 = "^0.1"
-
-[dummy.versions."0.2.0"]
-rev = "7523485f2ed1e4449e8c7cf53d522eb0bca70a0e"
-
-  [dummy.versions."0.2.0".deps]
-  dummy2 = "^0.1"
-
-[dummy.versions."0.1.1"]
-rev = "7523485f2ed1e4449e8c7cf53d522eb0bca70a0e"
-
-  [dummy.versions."0.1.1".deps]
-  dummy2 = "*"
-
-[dummy2]
-url = "https://github.com/RogueMacro/dummy2"
-
-[dummy2.versions."0.1.0"]
-rev = "d0df5351234bb7829725119e5220f853a5ee6f32"
-deps = { }
-
-[dummy2.versions."0.2.0"]
-rev = "3c2e46fd003874729036b40153e26bb9798d1cbf"
-deps = { }
-
-[dummy2.versions."1.0.0"]
-rev = "fc47a25c4967a800c760d9416a0eb7bafd16517d"
-deps = { }
-
 [ImGui]
 url = "https://github.com/roguemacro/imgui-beef"
 description = "Dear ImGui wrapper for Beef"
