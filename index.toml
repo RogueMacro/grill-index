@@ -24,10 +24,10 @@ description = "OpenGL bindings"
 rev = "3551cdc9cb576534d4e3a2efb3f3eabce565f9f7"
 deps = { }
 
-[BuildScriptTools]
-url = "https://github.com/roguemacro/grill-buildscript-tools"
-description = "BuildScript tools for Grill packages"
+[BuildTools]
+url = "https://github.com/roguemacro/grill-buildtools"
+description = "Build tools for Grill packages"
 
-[BuildScriptTools.versions."0.1.0"]
+[BuildTools.versions."0.1.0"]
 rev = "a403e1d34eabfba77d269b8f5a9e98941d33b3b0"
 deps = { }
