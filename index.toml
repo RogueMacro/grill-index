@@ -3,7 +3,7 @@ url = "https://github.com/roguemacro/imgui-beef-2"
 description = "Dear ImGui wrapper for Beef"
 
 [ImGui.versions."1.88.0"]
-rev = "bf1c876073ac7fc89b33ce6d8d10c0cc47c49286"
+rev = "caa69bc1175567923547377590f0aebf0b01cad5"
 
   [ImGui.versions."1.88.0".deps]
   GLFW = "*"
