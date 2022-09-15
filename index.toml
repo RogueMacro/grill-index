@@ -31,3 +31,7 @@ description = "Build tools for Grill packages"
 [BuildTools.versions."0.1.0"]
 rev = "a403e1d34eabfba77d269b8f5a9e98941d33b3b0"
 deps = { }
+
+[BuildTools.versions."0.2.0"]
+rev = "d9acea8369695b2b7b76c7d2384116d505eaf541"
+deps = { }
