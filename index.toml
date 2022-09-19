@@ -35,3 +35,11 @@ description = ""
 [dummy.versions."0.1.0"]
 rev = "9aef26a47ae2b5d68809d694088c5fc66ec5744e"
 deps = { }
+
+[GLFW]
+url = "https://github.com/MineGame159/glfw-beef.git"
+description = "Beef wrapper library for GLFW 3.3.4"
+
+[GLFW.versions."3.3.4"]
+rev = "b4f19bfe07af2af24811351935a20aba1fcac811"
+deps = { }
