@@ -8,6 +8,13 @@ rev = "caa69bc1175567923547377590f0aebf0b01cad5"
   [ImGui.versions."1.88.0".deps]
   GLFW = "*"
 
+[ImGui.versions."1.88.1"]
+rev = "9d0d3cde01e23e66075cd0b7110425781264499b"
+
+  [ImGui.versions."1.88.1".deps]
+  GLFW = "*"
+  SDL2 = "*"
+
 [OpenGL]
 url = "https://github.com/RogueMacro/opengl-beef.git"
 description = "OpenGL bindings"
