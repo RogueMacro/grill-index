@@ -62,3 +62,7 @@ description = "SDL2 wrapper for Beef"
 [SDL2.versions."0.1.0"]
 rev = "391ce43979dd18f48f84d596ae401484df9dffdb"
 deps = { }
+
+[SDL2.versions."0.1.1"]
+rev = "828f250f807cd1c921547fde1bccd215feeb6985"
+deps = { }
