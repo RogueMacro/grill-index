@@ -47,3 +47,11 @@ description = "Beef wrapper library for GLFW 3.3.4"
 [GLFW.versions."3.3.4"]
 rev = "b4f19bfe07af2af24811351935a20aba1fcac811"
 deps = { }
+
+[SDL2]
+url = "https://github.com/RogueMacro/SDL2-beef.git"
+description = "SDL2 wrapper for Beef"
+
+[SDL2.versions."0.1.0"]
+rev = "391ce43979dd18f48f84d596ae401484df9dffdb"
+deps = { }
