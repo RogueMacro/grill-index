@@ -66,3 +66,11 @@ deps = { }
 [SDL2.versions."0.1.1"]
 rev = "3c19bab83cb3ab7507e9d79bcc54f9e8dbdbc35b"
 deps = { }
+
+[TailTrace]
+url = "https://github.com/RogueMacro/TailTrace.git"
+description = ""
+
+[TailTrace.versions."0.1.0"]
+rev = "f3721e2e0bc64c596d24789a1ac50d7ef1771978"
+deps = { }
