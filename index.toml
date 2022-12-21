@@ -69,7 +69,7 @@ deps = { }
 
 [TailTrace]
 url = "https://github.com/RogueMacro/TailTrace.git"
-description = ""
+description = "Logging and console style utilities"
 
 [TailTrace.versions."0.1.0"]
 rev = "f3721e2e0bc64c596d24789a1ac50d7ef1771978"
