@@ -9,7 +9,7 @@ rev = "caa69bc1175567923547377590f0aebf0b01cad5"
   GLFW = "*"
 
 [ImGui.versions."1.88.1"]
-rev = "9d0d3cde01e23e66075cd0b7110425781264499b"
+rev = "d0339553b3f85c1c157de19b5fa6c7ad57bd50bd"
 
   [ImGui.versions."1.88.1".deps]
   GLFW = "*"
