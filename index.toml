@@ -89,7 +89,7 @@ deps = { }
 
 [Json]
 url = "https://github.com/RogueMacro/json.git"
-description = "JSON implementation for the Serialize framework for Beef."
+description = "JSON serialization format"
 
 [Json.versions."0.1.0"]
 rev = "8f3d52755eb92cd020aa85beadf86f3ac0819847"
