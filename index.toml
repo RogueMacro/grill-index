@@ -86,3 +86,13 @@ description = "De-/serialization framework"
 [Serialize.versions."0.1.0"]
 rev = "4765f666529cea0eba7f0754a8b6bcdff41151d1"
 deps = { }
+
+[Json]
+url = "https://github.com/RogueMacro/json.git"
+description = "JSON implementation for the Serialize framework for Beef."
+
+[Json.versions."0.1.0"]
+rev = "8f3d52755eb92cd020aa85beadf86f3ac0819847"
+
+  [Json.versions."0.1.0".deps]
+  Serialize = "^0.1.0"
