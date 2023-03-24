@@ -96,3 +96,13 @@ rev = "8f3d52755eb92cd020aa85beadf86f3ac0819847"
 
   [Json.versions."0.1.0".deps]
   Serialize = "^0.1.0"
+
+[Toml]
+url = "https://github.com/RogueMacro/toml.git"
+description = "TOML serialization format"
+
+[Toml.versions."0.1.0"]
+rev = "e23bc14337ba87eaaf0e04973fe442e20cf88d1c"
+
+  [Toml.versions."0.1.0".deps]
+  Serialize = "^0.1.0"
