@@ -91,6 +91,10 @@ description = "De-/serialization framework"
 rev = "4765f666529cea0eba7f0754a8b6bcdff41151d1"
 deps = { }
 
+[Serialize.versions."0.1.1"]
+rev = "a8e2abcc2952e2460ad01d5e1404ab6a5cdc0a4d"
+deps = { }
+
 [Json]
 url = "https://github.com/RogueMacro/json.git"
 description = "JSON serialization format"
