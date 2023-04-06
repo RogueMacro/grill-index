@@ -95,6 +95,10 @@ deps = { }
 rev = "a8e2abcc2952e2460ad01d5e1404ab6a5cdc0a4d"
 deps = { }
 
+[Serialize.versions."0.1.2"]
+rev = "bca60ca9c275bd015bf14727f9cfb59c255aede5"
+deps = { }
+
 [Json]
 url = "https://github.com/RogueMacro/json.git"
 description = "JSON serialization format"
