@@ -120,3 +120,9 @@ rev = "676347fbb55103a8788e4b767450e10761f9f57e"
 
   [Toml.versions."0.1.1".deps]
   Serialize = "^0.1.1"
+
+[Toml.versions."0.1.2"]
+rev = "721dd64f3fdb50f76548f1236edfa741333f548e"
+
+  [Toml.versions."0.1.2".deps]
+  Serialize = "^0.1.2"
