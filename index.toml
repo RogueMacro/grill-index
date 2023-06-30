@@ -43,6 +43,10 @@ deps = { }
 rev = "bb1eb6dc87bef38b28a848cf141053a3775bdb20"
 deps = { }
 
+[BuildTools.versions."0.2.3"]
+rev = "959a14ee0650decd3f5959eb19e922f7bfab8fe6"
+deps = { }
+
 [dummy]
 url = "https://github.com/roguemacro/dummy"
 description = ""
