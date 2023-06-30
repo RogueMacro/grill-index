@@ -1,0 +1,18 @@
+url = "https://github.com/RogueMacro/serialize.git"
+description = "De-/serialization framework"
+
+[versions."0.1.0"]
+rev = "4765f666529cea0eba7f0754a8b6bcdff41151d1"
+deps = {  }
+
+[versions."0.1.1"]
+rev = "a8e2abcc2952e2460ad01d5e1404ab6a5cdc0a4d"
+deps = {  }
+
+[versions."0.1.2"]
+rev = "bca60ca9c275bd015bf14727f9cfb59c255aede5"
+deps = {  }
+
+[versions."0.1.3"]
+rev = "03a9d9c6a4f1353f1ee607cba491e9ec9395d38a"
+deps = {  }

@@ -1,0 +1,10 @@
+url = "https://github.com/RogueMacro/TailTrace.git"
+description = "Logging and console style utilities"
+
+[versions."0.1.0"]
+rev = "f3721e2e0bc64c596d24789a1ac50d7ef1771978"
+deps = {  }
+
+[versions."0.1.1"]
+rev = "a6aed0ab84d00fed287be30fc8200390239fae2b"
+deps = {  }

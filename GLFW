@@ -1,0 +1,6 @@
+url = "https://github.com/MineGame159/glfw-beef.git"
+description = "Beef wrapper library for GLFW 3.3.4"
+
+[versions."3.3.4"]
+rev = "b4f19bfe07af2af24811351935a20aba1fcac811"
+deps = {  }

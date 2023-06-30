@@ -1,0 +1,6 @@
+url = "https://github.com/RogueMacro/opengl-beef.git"
+description = "OpenGL bindings"
+
+[versions."3.3.0"]
+rev = "3551cdc9cb576534d4e3a2efb3f3eabce565f9f7"
+deps = {  }

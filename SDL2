@@ -1,0 +1,10 @@
+url = "https://github.com/RogueMacro/SDL2-beef.git"
+description = "SDL2 wrapper for Beef"
+
+[versions."0.1.0"]
+rev = "391ce43979dd18f48f84d596ae401484df9dffdb"
+deps = {  }
+
+[versions."0.1.1"]
+rev = "3c19bab83cb3ab7507e9d79bcc54f9e8dbdbc35b"
+deps = {  }

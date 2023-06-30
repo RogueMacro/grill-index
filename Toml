@@ -1,1 +1,26 @@
-fdshjfhds
+url = "https://github.com/RogueMacro/toml.git"
+description = "TOML serialization format"
+
+[versions."0.1.0"]
+rev = "e23bc14337ba87eaaf0e04973fe442e20cf88d1c"
+
+  [versions."0.1.0".deps]
+  Serialize = "^0.1.0"
+
+[versions."0.1.1"]
+rev = "676347fbb55103a8788e4b767450e10761f9f57e"
+
+  [versions."0.1.1".deps]
+  Serialize = "^0.1.1"
+
+[versions."0.1.2"]
+rev = "721dd64f3fdb50f76548f1236edfa741333f548e"
+
+  [versions."0.1.2".deps]
+  Serialize = "^0.1.2"
+
+[versions."0.1.3"]
+rev = "69bcce9f463418d678bc5f398223326a5eb5128d"
+
+  [versions."0.1.3".deps]
+  Serialize = "^0.1.3"
