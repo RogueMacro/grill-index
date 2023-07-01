@@ -4,7 +4,3 @@ description = ""
 [versions."0.1.0"]
 rev = "9aef26a47ae2b5d68809d694088c5fc66ec5744e"
 deps = { }
-
-[versions."0.1.1"]
-rev = "6b0d09cc8ebdc8a27bf88659dc41370395dae1a4"
-deps = { }
