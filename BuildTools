@@ -3,20 +3,24 @@ description = "Build tools for Grill packages"
 
 [versions."0.1.0"]
 rev = "a403e1d34eabfba77d269b8f5a9e98941d33b3b0"
-deps = {  }
+deps = { }
 
 [versions."0.2.0"]
 rev = "d9acea8369695b2b7b76c7d2384116d505eaf541"
-deps = {  }
+deps = { }
 
 [versions."0.2.1"]
 rev = "a08a878b07f48445bf3eedbb61b383d66022dd1d"
-deps = {  }
+deps = { }
 
 [versions."0.2.2"]
 rev = "bb1eb6dc87bef38b28a848cf141053a3775bdb20"
-deps = {  }
+deps = { }
 
 [versions."0.2.3"]
 rev = "959a14ee0650decd3f5959eb19e922f7bfab8fe6"
-deps = {  }
+deps = { }
+
+[versions."0.2.4"]
+rev = "615c803a720355614151b1bf8bab70d7cc92d0ba"
+deps = { }
