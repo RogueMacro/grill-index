@@ -22,6 +22,10 @@ deps = { }
 rev = "959a14ee0650decd3f5959eb19e922f7bfab8fe6"
 deps = { }
 
+[BuildTools.versions."0.2.4"]
+rev = "615c803a720355614151b1bf8bab70d7cc92d0ba"
+deps = { }
+
 [GLFW]
 url = "https://github.com/MineGame159/glfw-beef.git"
 description = "Beef wrapper library for GLFW 3.3.4"
