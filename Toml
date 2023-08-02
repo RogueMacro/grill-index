@@ -30,3 +30,9 @@ rev = "6c3bdf3e4f68804eeeb2b5930bdf3aad63703d99"
 
   [versions."0.1.4".deps]
   Serialize = "^0.1.4"
+
+[versions."0.1.5"]
+rev = "3e7ce0dbbb7b2f4533938464bcc9cd7ab5dde904"
+
+  [versions."0.1.5".deps]
+  Serialize = "^0.1.5"
