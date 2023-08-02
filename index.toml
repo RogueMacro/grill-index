@@ -105,6 +105,10 @@ deps = { }
 rev = "b558f4e6176f6a71c7907f5e1e50f30e344ce303"
 deps = { }
 
+[Serialize.versions."0.1.5"]
+rev = "65e050121974a61a0207ff214f70cf127feac80c"
+deps = { }
+
 [TailTrace]
 url = "https://github.com/RogueMacro/TailTrace.git"
 description = "Logging and console style utilities"
@@ -150,6 +154,12 @@ rev = "6c3bdf3e4f68804eeeb2b5930bdf3aad63703d99"
 
   [Toml.versions."0.1.4".deps]
   Serialize = "^0.1.4"
+
+[Toml.versions."0.1.5"]
+rev = "3e7ce0dbbb7b2f4533938464bcc9cd7ab5dde904"
+
+  [Toml.versions."0.1.5".deps]
+  Serialize = "^0.1.5"
 
 [dummy]
 url = "https://github.com/roguemacro/dummy"
