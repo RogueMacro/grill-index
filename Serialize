@@ -28,3 +28,7 @@ deps = { }
 [versions."0.1.6"]
 rev = "ee654edb8b4c2c1b59e77a574549db196c53f100"
 deps = { }
+
+[versions."0.1.7"]
+rev = "37aa5b3fcf642e0a76fad241a4e74b50a613721a"
+deps = { }
